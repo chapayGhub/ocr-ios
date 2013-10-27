@@ -22,5 +22,6 @@ Links:
 =======
 build.sh:
 https://github.com/schwa/ya-tesseract-ios.git
+
 TesseractSample:
 https://github.com/mitchellcoffee/TesseractSample.git
